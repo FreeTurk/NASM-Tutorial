@@ -20,7 +20,7 @@ $ ./<filename>
 > This part is taken from:  
 > https://en.wikipedia.org/wiki/File_descriptor
 
-> File descriptors are needed when calling syscall 1, which is sys_write. As far as I can understand, sys_write requests a file to output at `rdi`, and moving 1 to `rdi` will output to terminal.
+> File descriptors are needed when calling syscall 1, which is sys_write. As far as I can understand, sys_write requests a file to output at `rdi`, and moving 1 to `rdi` will output to terminal.v
 
 | Integer value | Name            | <unistd.h> symbolic constant | <stdio.h> file stream |
 | ------------- | --------------- | ---------------------------- | --------------------- |

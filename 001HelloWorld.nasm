@@ -1,5 +1,5 @@
 section .data ; section where you define constants
-    hello db 'Hello, World!', 0Ah ; 0Ah is end line, db is a double word (so a data type)
+    hello db 'Hello, World!', 0Ah, 0 ; 0Ah is end line, db is a double word (so a data type)
 
 section .text ; section where you define the algorithmic stuff (as far as I can understand)
     global _start ; the entry point
