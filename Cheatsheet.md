@@ -7,7 +7,7 @@
 
 ```bash
 # This first comment outputs an object file with the name of the inputted NASM file, such as <filename>.o
-$ nasm -f elf64 <filename>.nasm
+$ nasm -f elf64 -g -F dwarf <filename>.nasm
 
 # This comment links the object file, outputting an executable named <filename> without any file extensions
 $ ld <filename>.o -o <filename>
