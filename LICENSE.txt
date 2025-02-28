@@ -1,0 +1,21 @@
+Emir's Reduced Free License
+Version 1.0, 2025
+Copyright (C) 2025 Emir Öven <emirovenprivate@gmail.com>
+
+Everyone using this software is subject to the terms following this notice.
+
+1. This software is free to use, modify, and distribute for personal use only.
+2. Any use in research or homework purposes is allowed only if the repository is cited.
+3. Any commercial use of this repository must first be approved by the author.
+3a. The author reserves the right to deny any commercial use of this repository.
+3b. The author reserves the right to ask for a fee for any commercial use of this repository.
+4. Forks of this repository are allowed, but all forks must cite the original repository.
+5. For any other use, please contact the author.
+6. The author is not responsible for any damage caused by the software.
+7. The software is provided as is, and the author does not guarantee that it will work on all systems.
+8. The author reserves the right to change the license of this software at any time.
+9. The author reserves the right to deny the use of this software to any person or entity for any reason.
+10. The author reserves the right to take legal action against any person or entity that violates any of these terms.
+11. Usage of this repository for any illegal or unethical activities is strictly prohibited and legal action will be taken.
+12. Usage of this repository for AI, machine learning, or any other form of automation is strictly prohibited.
+13. Everyone using this repository automatically agrees to these terms.
